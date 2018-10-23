@@ -9,7 +9,7 @@
  * Every function in this template comes with an opening comment that describes
  * its purpose and functionality. Please also pay attention to the remarks that
  * are made in comment blocks.
- *
+ * Test change
  */
 #define Kp  2.0
 #define Ki   0.0
